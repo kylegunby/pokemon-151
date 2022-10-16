@@ -10,7 +10,6 @@ SeafoamIslands1FWildMons:
 	db 28, SLOWPOKE
 	db 28, STARYU
 	db 38, SLOWBRO
-ENDC
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate
