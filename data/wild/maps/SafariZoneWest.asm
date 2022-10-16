@@ -6,8 +6,8 @@ SafariZoneWestWildMons:
 	db 24, EXEGGCUTE
 	db 33, NIDORINO
 	db 26, EXEGGCUTE
-	db 25, NIDORAN_M
 	db 31, VENOMOTH
+	db 25, HITMONCHAN
 	db 26, TAUROS
 	db 28, KANGASKHAN
 	end_grass_wildmons

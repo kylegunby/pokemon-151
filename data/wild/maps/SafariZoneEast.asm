@@ -5,9 +5,9 @@ SafariZoneEastWildMons:
 	db 22, PARAS
 	db 25, EXEGGCUTE
 	db 33, NIDORINA
-	db 24, NIDORAN_M
 	db 25, PARASECT
 	db 25, KANGASKHAN
+	db 25, HITMONLEE
 	db 28, PINSIR
 	db 28, SCYTHER
 	end_grass_wildmons
