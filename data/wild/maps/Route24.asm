@@ -8,8 +8,8 @@ Route24WildMons:
 	db 10, ABRA
 	db 10, WEEDLE
 	db 14, KAKUNA
-	db 13, PIDGEY
 	db 12, ABRA
+	db 13, CHARMANDER
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate

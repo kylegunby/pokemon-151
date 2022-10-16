@@ -7,9 +7,9 @@ ViridianForestWildMons:
 	db  4, KAKUNA
 	db  6, METAPOD
 	db  4, KAKUNA
-	db  3, WEEDLE
-	db  3, PIKACHU
 	db  5, PIKACHU
+	db  5, BULBASAUR
+	db  7, PIKACHU
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate
