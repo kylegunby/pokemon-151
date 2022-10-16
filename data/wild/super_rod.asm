@@ -69,8 +69,8 @@ SuperRodData:
 	db 4
 	db 15, DRATINI
 	db 15, KRABBY
-	db 15, PSYDUCK
-	db 15, SLOWPOKE
+	db 15, OMANYTE
+	db 15, KABUTO
 
 .Group7:
 	db 4
