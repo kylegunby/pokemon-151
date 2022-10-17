@@ -8,8 +8,8 @@ Route25WildMons:
 	db 12, ABRA
 	db 14, BELLSPROUT
 	db 10, ABRA
-	db  7, KAKUNA
-	db  8, WEEDLE
+	db 10, EEVEE
+	db 12, EEVEE
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate

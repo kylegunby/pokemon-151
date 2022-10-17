@@ -1,9 +1,9 @@
 ItemPrices::
 	table_width 3, ItemPrices
 	bcd3 0     ; MASTER_BALL
-	bcd3 1200  ; ULTRA_BALL
-	bcd3 600   ; GREAT_BALL
-	bcd3 200   ; POKE_BALL
+	bcd3 800   ; ULTRA_BALL
+	bcd3 400   ; GREAT_BALL
+	bcd3 100   ; POKE_BALL
 	bcd3 0     ; TOWN_MAP
 	bcd3 0     ; BICYCLE
 	bcd3 0     ; SURFBOARD
